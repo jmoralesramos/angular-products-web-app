@@ -69,3 +69,8 @@
     border-top: 1px solid #eee;
     color: gray;
 }
+
+.activado{
+    text-decoration: none !important;
+    border-bottom: 4px solid yellow;
+}
